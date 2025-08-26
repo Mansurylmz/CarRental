@@ -1,61 +1,27 @@
-🚗 Araç Kataloğu
-Modern bir arayüzle araç veritabanını filtreleyip keşfedebileceğiniz React ve TypeScript tabanlı bir web uygulaması.
+# CarRental
+Modern ve kullanıcı dostu bir araç kiralama web uygulaması. React, TypeScript ve Tailwind CSS ile geliştirildi.
 
-✨ Özellikler
-Araçları marka, model ve yıla göre filtreleme
-Gerçek zamanlı arama sonuçları
-Otomatik tamamlamalı marka seçimi
-Sayfalama desteği
-Responsive tasarım
-URL tabanlı filtreler (bookmark & paylaşım desteği)
-Detaylı araç bilgisi görüntüleme
-🛠️ Teknolojiler
-Frontend Framework: React
-Programlama Dili: TypeScript
-Stil Kütüphanesi: Tailwind CSS
-Paketleyici: Vite
-Routing: React Router DOM
-UI Bileşenleri:
-React Select - Gelişmiş dropdown menüler
-React Paginate - Sayfalama bileşeni
-🚀 Kurulum
-Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
+# Özellikler
+🔍 Araçları marka, model ve yıla göre filtreleyin
+📱 Tamamen duyarlı tasarım
+🖼️ Gerçekçi araç görselleri
+📊 Sayfalandırma sistemi
+🔍 Ayrıntılı araç bilgileri
 
-# Repoyu klonlayın
-git clone <repo-url>
+# Teknolojiler
+Frontend: React 19, TypeScript
 
-# Proje dizinine gidin
-cd car-rental
+Routing: React Router DOM 7
 
-# Bağımlılıkları yükleyin
-npm install
+Styling: Tailwind CSS 4
 
-# Geliştirme sunucusunu başlatın
-npm run dev
-Uygulama varsayılan olarak http://localhost:5173 adresinde çalışacaktır.
+Bundler: Vite 6
 
-💡 Kullanım
-Ana sayfadaki arama barını kullanarak araçları filtreleyebilirsiniz:
+Animation: Motion
 
-Marka seçin (dropdown menüden)
-Model yazın (metin alanına)
-Yıl seçin (sayı alanına)
-Arama sonuçları filtrelere göre gerçek zamanlı olarak güncellenecektir
+Component Libraries: React Select, React Paginate
 
-Sonuçlar arasında gezinmek için sayfalama kontrollerini kullanabilirsiniz
+# Ekran Kaydı
+Projenin nasıl göründüğüne dair bir fikir edinmek için aşağıdaki gif'e göz atabilirsiniz
 
-📚 API Kaynakları
-Araç Verileri:
-
-Open Data Soft API
-Endpoint: https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/all-vehicles-model/records
-Araç Görselleri:
-
-Imagin Studio API
-Örnek: https://cdn.imagin.studio/getImage?customer=hrjavascript-mastery&make=BMW&modelFamily=m4
-🧠 Geliştirme Araçları
-Cursor AI - Yapay zeka destekli kod editörü
-Otomatik kod tamamlama
-Akıllı kod önerileri
-Entegre AI chatbot desteği
-Composer ile kod yazma
+![car-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/151ececf-e5f4-40c3-ac2d-4471185bce5c)
